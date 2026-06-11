@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Whispering Your Desires
+
+This log tracks the cryptographic history and versioning for the song **Whispering Your Desires** (whispering-your-desires).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T19:37:14.728374 | `v1` | `4295924db90563b1fb041d3e01eac61bce33875a6d56a248ff58fe652c354af5` | `bec00c111e3f4e43511c83e5a6b25206e692f88e3f6ff5f55416673e964b424e` | `2026-06-11_whispering-your-desires-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

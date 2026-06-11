@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whispering-your-desires/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Whispering Your Desires](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-your-desires/) |
+| **Get License** | [Request Licensing for Whispering Your Desires](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-your-desires/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4295924db90563b1fb041d3e01eac61bce33875a6d56a248ff58fe652c354af5` |
 | **Timestamp** | June 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
