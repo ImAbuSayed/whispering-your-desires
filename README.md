@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whispering-your-desires/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Whispering Your Desires](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-your-desires/) |
+| **Get License** | [Secure Licensing Rights for Whispering Your Desires](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-your-desires/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat of the midnight slowly rising
+> Every single breath we take is softly compromising
+> Pull you close and let the shadows paint your skin
+> This is where the magic of the falling dark begins
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
